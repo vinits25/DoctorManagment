@@ -30,14 +30,7 @@ class EmployeeData{
 	private int phoneNumber;
 	private String designation;
 	
-	void setEmpid(int e)
-	{
-		empid = e;
-	}
-	int getEmpid()
-	{
-		return empid;
-	}
+	
 	void setName(String n)
 	{
 		name = n;
