@@ -21,6 +21,7 @@ public class Employee {
 
 }
 
+@restcontroller
 class EmployeeData{
 	private int empid;
 	private String name;
